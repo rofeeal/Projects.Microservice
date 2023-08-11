@@ -1,0 +1,29 @@
+version: '3.4'
+
+services:
+  projects.cmd.api:
+    image: projects.cmd.api
+    build:
+      context: .
+      dockerfile: Projects.Cmd/Projects.Cmd.Api/Dockerfile
+    networks:
+      - smartaccounting
+    depends_on:
+      - mongo-container
+
+  mongo-container:
+    image: mongo:latest
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data_container:/data/db
+    networks:
+      - smartaccounting
+
+volumes:
+  mongodb_data_container:
+
+networks:
+  smartaccounting:
+    external: true
