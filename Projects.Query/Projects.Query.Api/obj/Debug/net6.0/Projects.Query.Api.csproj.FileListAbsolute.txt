@@ -1,0 +1,364 @@
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.exe
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.deps.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.runtimeconfig.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.csproj.AssemblyReference.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.AssemblyInfoInputs.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.AssemblyInfo.cs
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.csproj.CoreCompileInputs.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets\msbuild.Projects.Query.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Projects.Query.Api.props
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Projects.Query.Api.props
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Projects.Query.Api.props
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\scopedcss\bundle\Projects.Query.Api.styles.css
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.csproj.CopyComplete
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\refint\Projects.Query.Api.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.genruntimeconfig.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\ref\Projects.Query.Api.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Azure.Core.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Castle.Core.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Npgsql.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\CQRS.Core.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Common.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Domain.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Infrastructure.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\CQRS.Core.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Common.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Domain.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Infrastructure.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\appsettings.json
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\appsettings.json
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.exe
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.deps.json
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.runtimeconfig.json
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.pdb
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Azure.Core.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Castle.Core.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Npgsql.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\CQRS.Core.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Common.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Domain.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Infrastructure.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\CQRS.Core.pdb
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Common.pdb
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Domain.pdb
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Infrastructure.pdb
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.csproj.AssemblyReference.cache
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.AssemblyInfoInputs.cache
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.AssemblyInfo.cs
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.csproj.CoreCompileInputs.cache
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets\msbuild.Projects.Query.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Projects.Query.Api.props
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Projects.Query.Api.props
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Projects.Query.Api.props
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\scopedcss\bundle\Projects.Query.Api.styles.css
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.csproj.CopyComplete
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\refint\Projects.Query.Api.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.pdb
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.genruntimeconfig.cache
+D:\New folder (3)\Projects.Query\Projects.Query.Api\Projects.Query.Api\obj\Debug\net6.0\ref\Projects.Query.Api.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\ProjectSeedData.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\Projects.Query.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\appsettings.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\ProjectSeedData.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.exe
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.deps.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.runtimeconfig.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Api.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Azure.Core.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Castle.Core.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Npgsql.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\CQRS.Core.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Projects.Common.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Domain.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Infrastructure.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\CQRS.Core.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Projects.Common.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Domain.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\bin\Debug\net6.0\Projects.Query.Infrastructure.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.csproj.AssemblyReference.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.AssemblyInfoInputs.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.AssemblyInfo.cs
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.csproj.CoreCompileInputs.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\staticwebassets\msbuild.Projects.Query.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Projects.Query.Api.props
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Projects.Query.Api.props
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Projects.Query.Api.props
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\scopedcss\bundle\Projects.Query.Api.styles.css
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.csproj.CopyComplete
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\refint\Projects.Query.Api.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\Projects.Query.Api.genruntimeconfig.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Api\obj\Debug\net6.0\ref\Projects.Query.Api.dll

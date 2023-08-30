@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NR4bE4CnLUDvPc1lLve30r2b0lW29hzvP9XEoPCbbYgdqrvVuoq0On+qNmKubR/JRt9sJpHdhKG8w6kickIm8w==",
+  "success": true,
+  "projectFilePath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Cmd\\Projects.Cmd.Domain\\Projects.Cmd.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rofee\\.nuget\\packages\\mongodb.bson\\2.20.0\\mongodb.bson.2.20.0.nupkg.sha512",
+    "C:\\Users\\rofee\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

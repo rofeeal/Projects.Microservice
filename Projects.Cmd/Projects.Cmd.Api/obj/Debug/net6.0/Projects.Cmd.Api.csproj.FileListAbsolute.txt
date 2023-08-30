@@ -1,0 +1,164 @@
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\appsettings.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Api.exe
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Api.deps.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Api.runtimeconfig.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Api.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Api.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\DnsClient.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\SharpCompress.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Snappier.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\ZstdSharp.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\CQRS.Core.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Domain.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Infrastructure.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Common.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\CQRS.Core.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Common.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Domain.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Infrastructure.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.csproj.AssemblyReference.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.AssemblyInfoInputs.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.AssemblyInfo.cs
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.csproj.CoreCompileInputs.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets\msbuild.Projects.Cmd.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Projects.Cmd.Api.props
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Projects.Cmd.Api.props
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Projects.Cmd.Api.props
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\scopedcss\bundle\Projects.Cmd.Api.styles.css
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.csproj.CopyComplete
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\refint\Projects.Cmd.Api.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.genruntimeconfig.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\ref\Projects.Cmd.Api.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\appsettings.json
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Api.exe
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Api.deps.json
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Api.runtimeconfig.json
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Api.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Api.pdb
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\DnsClient.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\SharpCompress.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Snappier.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\ZstdSharp.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\CQRS.Core.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Domain.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Infrastructure.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Common.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\CQRS.Core.pdb
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Common.pdb
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Domain.pdb
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\bin\Debug\net6.0\Projects.Cmd.Infrastructure.pdb
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.csproj.AssemblyReference.cache
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.AssemblyInfoInputs.cache
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.AssemblyInfo.cs
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.csproj.CoreCompileInputs.cache
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets\msbuild.Projects.Cmd.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Projects.Cmd.Api.props
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Projects.Cmd.Api.props
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Projects.Cmd.Api.props
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\scopedcss\bundle\Projects.Cmd.Api.styles.css
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.csproj.CopyComplete
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\refint\Projects.Cmd.Api.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.pdb
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\Projects.Cmd.Api.genruntimeconfig.cache
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Api\obj\Debug\net6.0\ref\Projects.Cmd.Api.dll

@@ -1,0 +1,400 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Api\\Projects.Query.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+        "projectName": "CQRS.Core",
+        "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+        "packagesPath": "C:\\Users\\rofee\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\CQRS-ES\\CQRS.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rofee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Common\\Projects.Common\\Projects.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Common\\Projects.Common\\Projects.Common.csproj",
+        "projectName": "Projects.Common",
+        "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Common\\Projects.Common\\Projects.Common.csproj",
+        "packagesPath": "C:\\Users\\rofee\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Common\\Projects.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rofee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Api\\Projects.Query.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Api\\Projects.Query.Api.csproj",
+        "projectName": "Projects.Query.Api",
+        "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Api\\Projects.Query.Api.csproj",
+        "packagesPath": "C:\\Users\\rofee\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rofee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+              },
+              "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Common\\Projects.Common\\Projects.Common.csproj": {
+                "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Common\\Projects.Common\\Projects.Common.csproj"
+              },
+              "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Domain\\Projects.Query.Domain.csproj": {
+                "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Domain\\Projects.Query.Domain.csproj"
+              },
+              "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Infrastructure\\Projects.Query.Infrastructure.csproj": {
+                "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Infrastructure\\Projects.Query.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Domain\\Projects.Query.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Domain\\Projects.Query.Domain.csproj",
+        "projectName": "Projects.Query.Domain",
+        "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Domain\\Projects.Query.Domain.csproj",
+        "packagesPath": "C:\\Users\\rofee\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rofee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Common\\Projects.Common\\Projects.Common.csproj": {
+                "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Common\\Projects.Common\\Projects.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Infrastructure\\Projects.Query.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Infrastructure\\Projects.Query.Infrastructure.csproj",
+        "projectName": "Projects.Query.Infrastructure",
+        "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Infrastructure\\Projects.Query.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\rofee\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rofee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+              },
+              "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Common\\Projects.Common\\Projects.Common.csproj": {
+                "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Common\\Projects.Common\\Projects.Common.csproj"
+              },
+              "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Domain\\Projects.Query.Domain.csproj": {
+                "projectPath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\Projects.Query\\Projects.Query.Domain\\Projects.Query.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

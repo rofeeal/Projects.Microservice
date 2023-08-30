@@ -10,5 +10,7 @@ namespace Projects.Query.Infrastructure.DataAccess
         }
 
         public DbSet<ProjectEntity> Projects { get; set; }
+        public DbSet<ProjectPriorityEntity> ProjectPriorities { get; set; }
+        public DbSet<ProjectStatusEntity> ProjectStatuses { get; set; }
     }
 }

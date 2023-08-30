@@ -1,0 +1,34 @@
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\Projects.Query.Domain.deps.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\Projects.Query.Domain.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\Projects.Query.Domain.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.csproj.AssemblyReference.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.AssemblyInfoInputs.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.AssemblyInfo.cs
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.csproj.CoreCompileInputs.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\refint\Projects.Query.Domain.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\ref\Projects.Query.Domain.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\Projects.Query.Domain.deps.json
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\Projects.Query.Domain.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\Projects.Query.Domain.pdb
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.csproj.AssemblyReference.cache
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.AssemblyInfoInputs.cache
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.AssemblyInfo.cs
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.csproj.CoreCompileInputs.cache
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\refint\Projects.Query.Domain.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.pdb
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\ref\Projects.Query.Domain.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\CQRS.Core.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\Projects.Common.dll
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\Projects.Common.pdb
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\CQRS.Core.pdb
+D:\New folder (3)\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.csproj.CopyComplete
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\CQRS.Core.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\Projects.Common.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\Projects.Common.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\bin\Debug\net6.0\CQRS.Core.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Query\Projects.Query.Domain\obj\Debug\net6.0\Projects.Query.Domain.csproj.CopyComplete

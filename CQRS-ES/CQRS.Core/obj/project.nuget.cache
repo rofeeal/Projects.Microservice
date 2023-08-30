@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mOn4JJf39DCttDUwkp81D8AoE7esdfcbobSFX+SSNc+vqsRczfgPSwva3cGfJcaAyHyPKikzIFLcdPwyoxvQ0Q==",
+  "success": true,
+  "projectFilePath": "D:\\ASP Projects\\SmartAccounting\\14-7-2023\\Projects\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rofee\\.nuget\\packages\\mongodb.bson\\2.20.0\\mongodb.bson.2.20.0.nupkg.sha512",
+    "C:\\Users\\rofee\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,38 @@
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Cmd.Infrastructure.deps.json
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Cmd.Infrastructure.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Cmd.Infrastructure.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\CQRS.Core.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Cmd.Domain.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Common.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\CQRS.Core.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Cmd.Domain.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Common.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.csproj.AssemblyReference.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.AssemblyInfoInputs.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.AssemblyInfo.cs
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.csproj.CopyComplete
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\refint\Projects.Cmd.Infrastructure.dll
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.pdb
+D:\ASP Projects\SmartAccounting\14-7-2023\Projects\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\ref\Projects.Cmd.Infrastructure.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Cmd.Infrastructure.deps.json
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Cmd.Infrastructure.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Cmd.Infrastructure.pdb
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\CQRS.Core.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Cmd.Domain.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Common.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\CQRS.Core.pdb
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Cmd.Domain.pdb
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\bin\Debug\net6.0\Projects.Common.pdb
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.csproj.AssemblyReference.cache
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.AssemblyInfoInputs.cache
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.AssemblyInfo.cs
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.csproj.CoreCompileInputs.cache
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.csproj.CopyComplete
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\refint\Projects.Cmd.Infrastructure.dll
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\Projects.Cmd.Infrastructure.pdb
+D:\New folder (3)\Projects.Cmd\Projects.Cmd.Infrastructure\obj\Debug\net6.0\ref\Projects.Cmd.Infrastructure.dll

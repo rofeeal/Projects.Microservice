@@ -1,0 +1,37 @@
+{
+  "Projects": [
+    {
+      "Id": "6d79c3b7-6c7f-4a23-9a5f-452fd6f84e7b",
+      "Code": "100",
+      "Name": "Egypt Projects",
+      "ParentId": "00000000-0000-0000-0000-000000000000",
+      "RootId": "00000000-0000-0000-0000-000000000000",
+      "IsParent": true,
+      "PriorityId": "45c4ca2b-eb6a-451f-9a3a-89c1b48b4b6d",
+      "StatusId": "5460c96e-bf33-4dd1-8d39-74b1d174b358",
+      "Active": true
+    },
+    {
+      "Id": "a8734930-3125-4f14-9f8f-6a144d841903",
+      "Code": "101",
+      "Name": "Anakaji Project",
+      "ParentId": "2a12f7ab-0e5f-4f97-8e24-c899c294b1c0",
+      "RootId": "2a12f7ab-0e5f-4f97-8e24-c899c294b1c0",
+      "IsParent": false,
+      "PriorityId": "45c4ca2b-eb6a-451f-9a3a-89c1b48b4b6d",
+      "StatusId": "5460c96e-bf33-4dd1-8d39-74b1d174b358",
+      "Active": true
+    },
+    {
+      "Id": "8b871f48-efda-411f-b0b6-c265a10f157d",
+      "Code": "102",
+      "Name": "Assuit Project",
+      "ParentId": "2a12f7ab-0e5f-4f97-8e24-c899c294b1c0",
+      "RootId": "2a12f7ab-0e5f-4f97-8e24-c899c294b1c0",
+      "IsParent": false,
+      "PriorityId": "45c4ca2b-eb6a-451f-9a3a-89c1b48b4b6d",
+      "StatusId": "5460c96e-bf33-4dd1-8d39-74b1d174b358",
+      "Active": true
+    }
+  ]
+}

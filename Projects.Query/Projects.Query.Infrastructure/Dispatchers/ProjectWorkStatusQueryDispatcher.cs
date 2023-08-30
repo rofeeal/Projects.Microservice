@@ -1,14 +1,14 @@
 ﻿using CQRS.Core.Infrastructure;
 using CQRS.Core.Queries;
-using Projects.Query.Domain.Enum;
+using Projects.Query.Domain.Entities;
 
 namespace Projects.Query.Infrastructure.Dispatchers
 {
-    public class ProjectWorkStatusQueryDispatcher : IQueryDispatcher<ProjectWorkStatusEnum>
+    public class ProjectStatusQueryDispatcher : IQueryDispatcher<ProjectStatusEntity>
     {
-        private readonly Dictionary<Type, Func<BaseQuery, Task<List<ProjectWorkStatusEnum>>>> _handlers = new();
+        private readonly Dictionary<Type, Func<BaseQuery, Task<List<ProjectStatusEntity>>>> _handlers = new();
 
-        public void RegisterHandler<TQuery>(Func<TQuery, Task<List<ProjectWorkStatusEnum>>> handler) where TQuery : BaseQuery
+        public void RegisterHandler<TQuery>(Func<TQuery, Task<List<ProjectStatusEntity>>> handler) where TQuery : BaseQuery
         {
             if (_handlers.ContainsKey(typeof(TQuery)))
             {
@@ -18,9 +18,9 @@ namespace Projects.Query.Infrastructure.Dispatchers
             _handlers.Add(typeof(TQuery), x => handler((TQuery)x));
         }
 
-        public async Task<List<ProjectWorkStatusEnum>> SendAsync(BaseQuery query)
+        public async Task<List<ProjectStatusEntity>> SendAsync(BaseQuery query)
         {
-            if (_handlers.TryGetValue(query.GetType(), out Func<BaseQuery, Task<List<ProjectWorkStatusEnum>>> handler))
+            if (_handlers.TryGetValue(query.GetType(), out Func<BaseQuery, Task<List<ProjectStatusEntity>>> handler))
             {
                 return await handler(query);
             }

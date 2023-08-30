@@ -71,7 +71,7 @@ namespace Projects.Query.Infrastructure.Repositories
             using (DatabaseContext context = _contextFactory.CreateDbContext())
             {
                 var subProjects = await context.Projects
-                    .Where(p => p.RootID == projectId)
+                    .Where(p => p.RootId == projectId)
                     .ToListAsync();
 
                 foreach (var subProject in subProjects)
@@ -116,7 +116,7 @@ namespace Projects.Query.Infrastructure.Repositories
             using (DatabaseContext context = _contextFactory.CreateDbContext())
             {
                 var subProjects = await context.Projects
-                    .Where(p => p.ParentID == parentId)
+                    .Where(p => p.ParentId == parentId)
                     .ToListAsync();
 
                 foreach (var subProject in subProjects)
@@ -155,9 +155,9 @@ namespace Projects.Query.Infrastructure.Repositories
 
                 if (current != null)
                 {
-                    if (current.ParentID != Guid.Empty)
+                    if (current.ParentId != Guid.Empty)
                     {
-                        return await GetRootIDAsync(current.ParentID);
+                        return await GetRootIDAsync(current.ParentId);
                     }
                     else
                     {
@@ -221,7 +221,7 @@ namespace Projects.Query.Infrastructure.Repositories
             try
             {
                 var userId = "user id";
-                await UpdateSubProjectAsync(project.Id, project.RootID, project.Active, userId);
+                await UpdateSubProjectAsync(project.Id, project.RootId, project.Active, userId);
 
                 project.SetModifiedInfo(userId);
                 context.Projects.Update(project);
@@ -243,14 +243,14 @@ namespace Projects.Query.Infrastructure.Repositories
             using (DatabaseContext context = _contextFactory.CreateDbContext())
             {
                 var subProjects = await context.Projects
-                    .Where(p => p.ParentID == projectId)
+                    .Where(p => p.ParentId == projectId)
                     .ToListAsync();
 
                 foreach (var subProject in subProjects)
                 {
                     subProject.Active = newState;
                     subProject.DeletedBy = userId;
-                    subProject.RootID = newRootId;
+                    subProject.RootId = newRootId;
                 }
 
                 await context.SaveChangesAsync();

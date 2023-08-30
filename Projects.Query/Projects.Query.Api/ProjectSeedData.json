@@ -1,0 +1,46 @@
+{
+  "ProjectPriorities": [
+    {
+      "Id": "2a12f7ab-0e5f-4f97-8e24-c899c294b1c0",
+      "Code": 1,
+      "Name": "High"
+    },
+    {
+      "Id": "45c4ca2b-eb6a-451f-9a3a-89c1b48b4b6d",
+      "Code": 2,
+      "Name": "Normal"
+    },
+    {
+      "Id": "fe051822-b29e-4a9b-bd8a-983f44bb5f8a",
+      "Code": 3,
+      "Name": "Low"
+    }
+  ],
+  "projectStatuses": [
+    {
+      "Id": "7d187ae1-509d-4e6a-9256-0726eb1eaf64",
+      "Code": 1,
+      "Name": "Completed"
+    },
+    {
+      "Id": "5460c96e-bf33-4dd1-8d39-74b1d174b358",
+      "Code": 2,
+      "Name": "Running"
+    },
+    {
+      "Id": "58a4a409-24b6-4fb6-9f5e-511e2a01a30f",
+      "Code": 3,
+      "Name": "Pending"
+    },
+    {
+      "Id": "a826f7c3-c693-43e7-8916-65c7c60ab1a5",
+      "Code": 4,
+      "Name": "NotStarted"
+    },
+    {
+      "Id": "4a48b94a-8152-4d99-92b7-9d4de4e34a24",
+      "Code": 5,
+      "Name": "Canceled"
+    }
+  ]
+}

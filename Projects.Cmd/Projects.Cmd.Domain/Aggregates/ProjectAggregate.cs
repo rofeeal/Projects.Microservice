@@ -1,5 +1,4 @@
 ﻿using CQRS.Core.Domain;
-using Projects.Common.Enum;
 using Projects.Common.Events;
 
 namespace Projects.Cmd.Domain.Aggregates
@@ -7,11 +6,11 @@ namespace Projects.Cmd.Domain.Aggregates
     public class ProjectAggregate : AggregateRoot
     {
         public int _code;
-        public Guid _parentID;
+        public Guid _parentId;
         public bool _isParent;
         public string _name;
-        public ProjectPriority _priority;
-        public ProjectWorkStatus _workStatus;
+        public Guid _priorityId;
+        public Guid _statusId;
         public Guid? _clientId;
         public float? _price;
         public DateTime? _startDate;
@@ -25,17 +24,17 @@ namespace Projects.Cmd.Domain.Aggregates
         {
         }
 
-        public ProjectAggregate(Guid id, int code, Guid parentID, bool isParent, string name, ProjectPriority priority, ProjectWorkStatus workStatus, Guid? clientId, float? price, DateTime? startDate, DateTime? endDate, string? description, string? image, bool active)
+        public ProjectAggregate(Guid id, int code, Guid parentId, bool isParent, string name, Guid priorityId, Guid statusId, Guid? clientId, float? price, DateTime? startDate, DateTime? endDate, string? description, string? image, bool active)
         {
             RaiseEvent(new ProjectCreatedEvent
             {
                 Id = id,
                 Code = code,
-                ParentID = parentID,
+                ParentId = parentId,
                 IsParent = isParent,
                 Name = name,
-                Priority = priority,
-                WorkStatus = workStatus,
+                PriorityId = priorityId,
+                StatusId = statusId,
                 ClientId = clientId,
                 Price = price,
                 StartDate = startDate,
@@ -51,11 +50,11 @@ namespace Projects.Cmd.Domain.Aggregates
         {
             _id = @event.Id;
             _code = @event.Code;
-            _parentID = @event.ParentID;
+            _parentId = @event.ParentId;
             _isParent = @event.IsParent;
             _name = @event.Name;
-            _priority = @event.Priority;
-            _workStatus = @event.WorkStatus;
+            _priorityId = @event.PriorityId;
+            _statusId = @event.StatusId;
             _clientId = @event.ClientId;
             _price = @event.Price;
             _startDate = @event.StartDate;
@@ -65,17 +64,17 @@ namespace Projects.Cmd.Domain.Aggregates
             _active = @event.Active;
         }
 
-        public void EditProjectAggregate(Guid id, int code, Guid parentID, bool isParent, string name, ProjectPriority priority, ProjectWorkStatus workStatus, Guid? clientId, float? price, DateTime? startDate, DateTime? endDate, string? description, string? image, bool active)
+        public void EditProjectAggregate(Guid id, int code, Guid parentId, bool isParent, string name, Guid priorityId, Guid statusId, Guid? clientId, float? price, DateTime? startDate, DateTime? endDate, string? description, string? image, bool active)
         {
             RaiseEvent(new ProjectEditedEvent
             {
                 Id = id,
                 Code = code,
-                ParentID = parentID,
+                ParentId = parentId,
                 IsParent = isParent,
                 Name = name,
-                Priority = priority,
-                WorkStatus = workStatus,
+                PriorityId = priorityId,
+                StatusId = statusId,
                 ClientId = clientId,
                 Price = price,
                 StartDate = startDate,
@@ -90,11 +89,11 @@ namespace Projects.Cmd.Domain.Aggregates
         {
             _id = @event.Id;
             _code = @event.Code;
-            _parentID = @event.ParentID;
+            _parentId = @event.ParentId;
             _isParent = @event.IsParent;
             _name = @event.Name;
-            _priority = @event.Priority;
-            _workStatus = @event.WorkStatus;
+            _priorityId = @event.PriorityId;
+            _statusId = @event.StatusId;
             _clientId = @event.ClientId;
             _price = @event.Price;
             _startDate = @event.StartDate;

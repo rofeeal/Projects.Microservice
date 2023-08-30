@@ -1,29 +1,34 @@
-﻿using Projects.Common.Enum;
-using Projects.Query.Domain.Enum;
+﻿using Microsoft.EntityFrameworkCore;
+using Projects.Query.Domain.Entities;
 using Projects.Query.Domain.Interfaces;
+using Projects.Query.Infrastructure.DataAccess;
 
 namespace Projects.Query.Infrastructure.Repositories
 {
     public class ProjectPriorityRepository : IProjectPriorityRepository
     {
-        public async Task<List<ProjectPriorityEnum>> ListAllAsync()
+        private readonly DatabaseContextFactory _contextFactory;
+
+        public ProjectPriorityRepository(DatabaseContextFactory contextFactory)
         {
-            var enumValues = Enum.GetValues(typeof(ProjectPriority)).Cast<ProjectPriority>();
+            _contextFactory = contextFactory;
+        }
 
-
-            var enumMap = enumValues.ToDictionary(
-                enumValue => (int)enumValue,
-                enumValue => enumValue.ToString()
-            );
-
-            ProjectPriorityEnum priorityEnum = new()
+        public async Task<List<ProjectPriorityEntity>> ListAllAsync()
+        {
+            try
             {
-                Priority = enumMap
-            };
-
-            var enumList = new List<ProjectPriorityEnum>() { priorityEnum };
-
-            return enumList;
+                using (DatabaseContext context = _contextFactory.CreateDbContext())
+                {
+                    return await context.ProjectPriorities
+                        .AsNoTracking()
+                        .ToListAsync();
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("An error occurred while retrieving the undeleted project priorities list.", ex);
+            }
         }
     }
 }

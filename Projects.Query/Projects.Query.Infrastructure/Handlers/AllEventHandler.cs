@@ -8,7 +8,7 @@ namespace Projects.Query.Infrastructure.Handlers
     public class AllEventHandler : IEventHandler
     {
         private readonly IProjectRepository _projectRepository;
-        private readonly static string PRECODE = "PRO - ";
+        private readonly static string PRECODE = "PRO-";
 
         public AllEventHandler(IProjectRepository projectRepository)
         {
@@ -21,12 +21,12 @@ namespace Projects.Query.Infrastructure.Handlers
             {
                 Id = @event.Id,
                 Code = PRECODE + @event.Code.ToString(),
-                ParentID = @event.ParentID,
-                RootID = await _projectRepository.GetRootIDAsync(@event.ParentID),
+                ParentId = @event.ParentId,
+                RootId = await _projectRepository.GetRootIDAsync(@event.ParentId),
                 IsParent = @event.IsParent,
                 Name = @event.Name,
-                Priority = @event.Priority,
-                WorkStatus = @event.WorkStatus,
+                PriorityId = @event.PriorityId,
+                StatusId = @event.StatusId,
                 ClientId = @event.ClientId,
                 Price = @event.Price,
                 StartDate = @event.StartDate,
@@ -47,12 +47,12 @@ namespace Projects.Query.Infrastructure.Handlers
 
             project.Id = @event.Id;
             project.Code = PRECODE + @event.Code.ToString();
-            project.ParentID = @event.ParentID;
-            project.RootID = await _projectRepository.GetRootIDAsync(@event.ParentID);
+            project.ParentId = @event.ParentId;
+            project.RootId = await _projectRepository.GetRootIDAsync(@event.ParentId);
             project.IsParent = @event.IsParent;
             project.Name = @event.Name;
-            project.Priority = @event.Priority;
-            project.WorkStatus = @event.WorkStatus;
+            project.PriorityId = @event.PriorityId;
+            project.StatusId = @event.StatusId;
             project.ClientId = @event.ClientId;
             project.Price = @event.Price;
             project.StartDate = @event.StartDate;

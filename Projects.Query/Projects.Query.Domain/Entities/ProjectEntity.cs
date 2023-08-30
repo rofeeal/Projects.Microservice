@@ -1,5 +1,4 @@
-﻿using Projects.Common.Enum;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Projects.Query.Domain.Entities
@@ -10,12 +9,14 @@ namespace Projects.Query.Domain.Entities
         [Key]
         public Guid Id { get; set; }
         public string Code { get; set; }
-        public Guid ParentID { get; set; } = Guid.Empty;
-        public Guid RootID { get; set; } = Guid.Empty;
+        public Guid ParentId { get; set; } = Guid.Empty;
+        public Guid RootId { get; set; } = Guid.Empty;
         public bool IsParent { get; set; } = false;
         public string Name { get; set; }
-        public ProjectPriority Priority { get; set; }
-        public ProjectWorkStatus WorkStatus { get; set; }
+        public Guid PriorityId { get; set; }
+        public virtual ProjectPriorityEntity? Priority { get; set; }
+        public Guid StatusId { get; set; }
+        public virtual ProjectStatusEntity? Status { get; set; }
         public Guid? ClientId { get; set; }
         public float? Price { get; set; }
         public DateTime? StartDate { get; set; }
